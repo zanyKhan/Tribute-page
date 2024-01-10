@@ -1,0 +1,33 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    height: 325px;
+    width: 380px;
+    background-color: aqua;
+    border-radius: 5%;
+    margin-top: 2px;
+}
+.container{
+    border: 2px solid black;
+    width: 60%;
+    margin-left: 22%;
+    margin-top: 5px;
+    background-color:darkgray;
+}
+#head{
+    margin-left: 57%;
+    margin-top: -5%;
+
+}
+#year{
+    margin-left: 89%;
+    margin-top: -13;
+}
+p{
+    margin-left: 2px;
+    
+}
+#wikipedia{
+    margin-left: 54%;
+}
