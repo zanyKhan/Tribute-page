@@ -11,14 +11,13 @@ p{
     margin-left: 2px; 
 }
 #wikipedia{
-    margin-left: 54%;
+    margin-left: 70%;
 }
 body {
     padding: 10px;
+    background-color:lavenderblush;   
 }
 .row{
-    border: 2px solid black;
-    width: 80%;
-    margin-left: 12%;
-    background-color:lavenderblush;   
+    width: 95%;
+    margin-left: 4%;
 }
