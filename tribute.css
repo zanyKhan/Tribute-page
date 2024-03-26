@@ -1,33 +1,24 @@
 *{
     font-family: 'Times New Roman', Times, serif;
 }
-img{
-    height: 325px;
-    width: 380px;
-    background-color: aqua;
+.responsive{
+    height: 180px;
+    width: auto;
     border-radius: 50%;
     margin-top: 2px;
 }
-.container{
-    border: 2px solid black;
-    width: 60%;
-    margin-left: 22%;
-    margin-top: 5px;
-    background-color:thistle;
-}
-#head{
-    margin-left: 57%;
-    margin-top: -9%;
-
-}
-#year{
-    margin-left: 89%;
-    margin-top: -13;
-}
 p{
-    margin-left: 2px;
-    
+    margin-left: 2px; 
 }
 #wikipedia{
     margin-left: 54%;
+}
+body {
+    padding: 10px;
+}
+.row{
+    border: 2px solid black;
+    width: 80%;
+    margin-left: 12%;
+    background-color:lavenderblush;   
 }
